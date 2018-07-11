@@ -1,0 +1,171 @@
+% Encoding: windows-1252
+
+
+@Article{d'Eon8iVoxalization,
+  Title                    = {8i voxelized full bodies-a voxelized point cloud dataset},
+  Author                   = {d'Eon, T.M.E. and Harrison, B. and Chou, P.A.},
+  Journal                  = {ISO/IEC JTC1/SC29 WG11 M74006},
+  Year                     = {2017}
+}
+
+@InProceedings{alliez2001compressionForLosslessTransmission,
+  Title                    = {Progressive compression for lossless transmission of triangle meshes},
+  Author                   = {Alliez, P. and Desbrun, M.},
+  Booktitle                = {ACM SIGGRAPH},
+  Year                     = {2001}
+}
+
+@Article{baronciniReportSubjective,
+  Title                    = {Report of the Formal Subjective Assessment Test of the Submission received in response to the Call for Proposals for Point Cloud Compression, Contribution to {MPEG}, October 2017},
+  Author                   = {Baroncini, V. and Cesar Garcia, P.S. and Siahaan, E. and Reimat, I. and Subramanyam, S.},
+  Year                     = {2017}
+}
+
+@InProceedings{huang2006octreeProgressiveGeometry,
+  Title                    = {Octree-Based Progressive Geometry Coding of Point Clouds},
+  Author                   = {Huang, Y. and Peng, J. and Kuo, C-C J. and Gopi, M.},
+  Booktitle                = {3rd Eurographics / IEEE VGTC Conference on Point-Based Graphics},
+  Year                     = {2006}
+}
+
+@InProceedings{kammerl2012realtimeCompression,
+  Title                    = {Real-time compression of point cloud streams},
+  Author                   = {Kammerl, J. and Blodow, N. and Rusu, R.B. and Gedikli, S. and Beetz, M. and Steinbach, E.},
+  Booktitle                = {IEEE ICRA},
+  Year                     = {2012}
+}
+
+@InProceedings{mamou2008newMpeg4,
+  Title                    = {The new {MPEG}-4/{FAMC} standard for animated 3{D} mesh compression},
+  Author                   = {Mamou, K. and Stefanoski, N. and Kirchhoffer, H. and Muller, K. and Zaharia, T. and Preteux, F. and Marpe, D. and Ostermann, J.},
+  Booktitle                = {3{DTV} Conference},
+  Year                     = {2008}
+}
+
+@Article{mekuria2017designTeleimersive,
+  Title                    = {Design, Implementation, and Evaluation of a Point Cloud Codec for Tele-Immersive Video},
+  Author                   = {Mekuria, R. and Blom, K. and Cesar, P.},
+  Journal                  = {IEEE Transactions on Circuits and Systems for Video Technology},
+  Year                     = {2017},
+  Number                   = {4},
+  Volume                   = {27},
+
+  Publisher                = {IEEE}
+}
+
+@InProceedings{merkle2007MultiView,
+  Title                    = {Multi-view video plus depth representation and coding},
+  Author                   = {Merkle, P. and Smolic, A. and Muller, K. and Wiegand, T.},
+  Booktitle                = {IEEE ICIP},
+  Year                     = {2007}
+}
+
+@InProceedings{Peng2004ProgressiveGeometryspacePartitioning,
+  Title                    = {Progressive geometry encoder using octree-based space partitioning},
+  Author                   = {J. Peng and C. C. J. Kuo},
+  Booktitle                = {IEEE ICME},
+  Year                     = {2004}
+}
+
+@InProceedings{peng2004progressive,
+  Title                    = {Progressive 3D mesh coder with octree-based space partitioning},
+  Author                   = {Peng, J. and Yang, S. and Kuo, C-C J.},
+  Booktitle                = {Multimedia Systems and Applications VII},
+  Year                     = {2004}
+}
+
+@Article{de2017motionCompensated,
+  Title                    = {Motion-compensated compression of dynamic voxelized point clouds},
+  Author                   = {de Queiroz, R.L. and Chou, P.A.},
+  Journal                  = {IEEE Transactions on Image Processing},
+  Year                     = {2017},
+  Number                   = {8},
+  Volume                   = {26}
+}
+
+@InProceedings{schnabel2006octreePcc,
+  Title                    = {Octree-based Point-Cloud Compression},
+  Author                   = {Schnabel, R. and Klein, R.},
+  Booktitle                = {3rd Eurographics / IEEE VGTC Conference on Point-Based Graphics},
+  Year                     = {2006}
+}
+
+@InProceedings{NokiaResponseToCfP,
+  Title                    = {2{D} Video coding of volumetric video data},
+  Author                   = {S. Schwarz and M. M. Hannuksela and V. Fakour-Sevom and N. Sheikhi-Pour},
+  Booktitle                = {IEEE Picture Coding Symposium},
+  Year                     = {2018}
+}
+
+@Article{response,
+  Title                    = {Nokia$\mbox{'}$s response to CfP for Point Cloud Compression (Category 2)},
+  Author                   = {S. Schwarz and M. M. Hannuksela and V. Fakour-Sevom and N. Sheiki-Pour and V. Malamalvadakital and A. Aminlou},
+  Journal                  = {ISO/IECJTC1/SC29/WG11 M41779},
+  Year                     = {2017}
+}
+
+@Article{thanou2016graphBasedCompression,
+  Title                    = {Graph-based compression of dynamic 3{D} point cloud sequences},
+  Author                   = {Thanou, D. and Chou, P. A. and Frossard, P.},
+  Journal                  = {IEEE Transactions on Image Processing},
+  Year                     = {2016},
+  Number                   = {4},
+  Volume                   = {25}
+}
+
+@InProceedings{tian2017geometricDistortionMetrics,
+  Title                    = {Geometric Distortion Metrics for Point Cloud Compression},
+  Author                   = {Tian, D. and Ochimizu, H. and Feng, C. and Cohen, R.A. and Vetro, A.},
+  Booktitle                = {IEEE ICIP},
+  Year                     = {2017}
+}
+
+@Article{TourapisBDRate,
+  Title                    = {{BD-R}ate/{BD-PSNR} excel extensions},
+  Author                   = {A. M. Tourapis and D. Singer and Y. Su and K. Mammou},
+  Journal                  = {ISO/IECJTC1/SC29/WG11 M41482},
+  Year                     = {2017}
+}
+
+@InProceedings{wang2017pcc3DDCT,
+  Title                    = {Point-Cloud compression using data independent method—A 3{D} discrete cosine transform approach},
+  Author                   = {Wang, L. and Wang, L. and Luo, Y. and Liu, M.},
+  Booktitle                = {IEEE ICIA},
+  Year                     = {2017}
+}
+
+@InProceedings{zhang2014pointAttributeCompression,
+  Title                    = {Point cloud attribute compression with graph transform},
+  Author                   = {Zhang, C. and Flor{\^e}ncio, D. and Loop, C.},
+  Booktitle                = {IEEE ICIP},
+  Year                     = {2014}
+}
+
+@Misc{GoogleDraco,
+  Title                    = {Google Draco},
+  HowPublished             = {https://github.com/google/draco},
+  Year                     = {(04.04.2018)}
+}
+
+@Misc{HEVCScalabilityExtension,
+  Title                    = {{HEVC} scalability extension ({SHVC})},
+  HowPublished             = {https://hevc.hhi.fraunhofer.de/shvc},
+  Year                     = {(04.04.2018)}
+}
+
+@Article{CallforProposalsforPCC,
+  title   = {Call for Proposals for Point Cloud Compression {V}2},
+  journal = {ISO/IECJTC1/SC29/WG11 N16763},
+  year    = {2017},
+}
+
+@Article{Corrigenda,
+  Title                    = {Clarifications and corrigenda for cfp point cloud compression},
+  Journal                  = {ISO/IEC JTC1/SC29/WG11 N17091},
+  Year                     = {2017},
+
+  Owner                    = {ghaznavi},
+  Timestamp                = {2018.06.29}
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,0 +1,29 @@
+\babel@toc {finnish}{}
+\babel@toc {english}{}
+\babel@toc {finnish}{}
+\contentsline {chapter}{\numberline {1.}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Objectives and Scope of the Thesis}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Thesis Outline}{4}{section.1.2}
+\contentsline {chapter}{\numberline {2.}Projection based point cloud compression}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Projection}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Sphere}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Cylinder}{10}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Cube}{11}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Planer rotation}{13}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Sequential Decimation}{14}{subsection.2.2.5}
+\contentsline {chapter}{\numberline {3.}Proposed Methods}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}Edge Smoothing}{16}{section.3.1}
+\contentsline {section}{\numberline {3.2}Patch Refinement}{19}{section.3.2}
+\contentsline {chapter}{\numberline {4.}Experimental Results}{22}{chapter.4}
+\contentsline {section}{\numberline {4.1}Point Cloud Data}{22}{section.4.1}
+\contentsline {section}{\numberline {4.2}Objective Evaluation Criteria and Metrics}{22}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Geometric Distortions}{23}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Results for applying Edge-smoothing and patch refinement}{25}{section.4.3}
+\contentsline {section}{\numberline {4.4}Applying Edge-smoothing}{25}{section.4.4}
+\contentsline {section}{\numberline {4.5}Applying Patch refinement}{26}{section.4.5}
+\contentsline {section}{\numberline {4.6}Applying Edge-smoothing and patch refinement}{26}{section.4.6}
+\contentsline {section}{\numberline {4.7}Improved Projection-based Versus the Stat-of-the-art}{27}{section.4.7}
+\contentsline {section}{\numberline {4.8}complexity}{27}{section.4.8}
+\contentsline {chapter}{\numberline {5.}Conclusion and Future Work}{38}{chapter.5}
+\contentsline {chapter}{Bibliography}{39}{chapter.5}

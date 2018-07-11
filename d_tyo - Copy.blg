@@ -1,0 +1,11 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: d_tyo - Copy.aux
+The style file: ieeetr.bst
+Database file #1: ref.bib
+Warning--I didn't find a database entry for "H.264_AVC"
+Warning--I didn't find a database entry for "High_Efficiency_Video_Coding_HEVC"
+Warning--I didn't find a database entry for "3D_HEVC"
+Warning--empty author in CallforProposalsforPCC
+Name 2 in "E. d'Eon and B. Harrison, T. Myers, and P. A. Chou" has a comma at the end for entry 8i_Voxelized_Full_Bodies
+while executing---line 969 of file ieeetr.bst
+Warning--empty author in Corrigenda
+(There was 1 error message)

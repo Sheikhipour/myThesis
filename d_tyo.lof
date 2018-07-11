@@ -1,0 +1,47 @@
+\select@language {finnish}
+\select@language {english}
+\select@language {finnish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline { 2.1}{\ignorespaces Non-overlapping and overlapping multi-carrier modulation}}{5}{figure.caption.1}
+\contentsline {figure}{\numberline { 2.2}{\ignorespaces PLCP Protocol Data Unit (PPDU) in 802.11a \copyright IEEE, 1999}}{6}{figure.caption.3}
+\contentsline {figure}{\numberline { 2.3}{\ignorespaces IEEE 802.11a simplified transceiver architecture}}{9}{figure.caption.5}
+\contentsline {figure}{\numberline { 2.4}{\ignorespaces IEEE 802.11a constellations}}{9}{figure.caption.6}
+\contentsline {figure}{\numberline { 2.5}{\ignorespaces QAM natural order and Gray coding}}{10}{figure.caption.7}
+\contentsline {figure}{\numberline { 2.6}{\ignorespaces Adding Cyclic Prefix in OFDM Symbols}}{11}{figure.caption.8}
+\contentsline {figure}{\numberline { 2.7}{\ignorespaces Transmit spectrum of OFDM based on 802.11a specification}}{13}{figure.caption.9}
+\contentsline {figure}{\numberline { 2.8}{\ignorespaces Signal flow structure of the time synchronization by using delay and correlate algorithm}}{16}{figure.caption.10}
+\contentsline {figure}{\numberline { 2.9}{\ignorespaces GI correlation}}{17}{figure.caption.11}
+\contentsline {figure}{\numberline { 2.10}{\ignorespaces Upconversion and Downconversion of signal in transmitter and receiver}}{18}{figure.caption.12}
+\contentsline {figure}{\numberline { 2.11}{\ignorespaces Channel estimation based on linear interpolation }}{21}{figure.caption.13}
+\contentsline {figure}{\numberline { 2.12}{\ignorespaces Decision regions for symbols demapping block}}{23}{figure.caption.14}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline { 4.1}{\ignorespaces Programmer's View of the Core's Registers \cite {coffeecore}}}{30}{figure.caption.15}
+\contentsline {figure}{\numberline { 4.2}{\ignorespaces COFFEE RISC core interface \copyright IEEE, 2003 \cite {coffeecore}}}{32}{figure.caption.16}
+\contentsline {figure}{\numberline { 4.3}{\ignorespaces Effect of Pipelining Technique on Execution of a Sequence of Load Instructions \cite {computerarch}}}{33}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Without Pipelining}}}{33}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {By using Pipelining technique}}}{33}{figure.caption.17}
+\contentsline {figure}{\numberline { 4.4}{\ignorespaces Pipeline stages of COFFEE RISC core \copyright IEEE, 2003 \cite {coffeecore}}}{34}{figure.caption.18}
+\contentsline {figure}{\numberline { 4.5}{\ignorespaces CREMA Template \copyright 2009 IEEE \cite {cremafig}}}{36}{figure.caption.19}
+\contentsline {figure}{\numberline { 4.6}{\ignorespaces Basic Components of each PE \copyright 2009 IEEE \cite {crema}}}{37}{figure.caption.20}
+\contentsline {figure}{\numberline { 4.7}{\ignorespaces PE core \cite {crema}}}{38}{figure.caption.21}
+\contentsline {figure}{\numberline { 4.8}{\ignorespaces Interconnections between PEs in CREMA \cite {crema}}}{38}{figure.caption.22}
+\contentsline {figure}{\numberline { 4.9}{\ignorespaces Data reordering by using delay chains}}{39}{figure.caption.23}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline { 5.1}{\ignorespaces First context for the calculation of the correlations}}{43}{figure.caption.24}
+\contentsline {figure}{\numberline { 5.2}{\ignorespaces Second context for the calculation of the correlations}}{44}{figure.caption.25}
+\contentsline {figure}{\numberline { 5.3}{\ignorespaces Two columns of the context for the square modulus}}{45}{figure.caption.26}
+\contentsline {figure}{\numberline { 5.4}{\ignorespaces Context for the multiplication between a signal and its complex conjugation}}{47}{figure.caption.27}
+\contentsline {figure}{\numberline { 5.5}{\ignorespaces Context for the complex multiplication}}{51}{figure.caption.28}
+\contentsline {figure}{\numberline { 5.6}{\ignorespaces Third context for the frequency offset estimation}}{51}{figure.caption.29}
+\contentsline {figure}{\numberline { 5.7}{\ignorespaces First context for the channel estimation}}{53}{figure.caption.30}
+\contentsline {figure}{\numberline { 5.8}{\ignorespaces First context for the Linear Interpolation}}{54}{figure.caption.31}
+\contentsline {figure}{\numberline { 5.9}{\ignorespaces Second context for the Linear Interpolation}}{55}{figure.caption.32}
+\contentsline {figure}{\numberline { 5.10}{\ignorespaces First context for the Newton-Raphson method}}{57}{figure.caption.33}
+\contentsline {figure}{\numberline { 5.11}{\ignorespaces Second context for the Newton-Raphson method}}{57}{figure.caption.34}
+\contentsline {figure}{\numberline { 5.12}{\ignorespaces Sixth context for the channel estimation}}{58}{figure.caption.35}
+\contentsline {figure}{\numberline { 5.13}{\ignorespaces Seventh context for the channel estimation}}{59}{figure.caption.36}
+\contentsline {figure}{\numberline { 5.14}{\ignorespaces Eighth context for the channel estimation}}{59}{figure.caption.37}
+\contentsline {figure}{\numberline { 5.15}{\ignorespaces Decision regions for 16-QAM constellation points}}{61}{figure.caption.39}
+\addvspace {10\p@ }

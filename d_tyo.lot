@@ -1,0 +1,16 @@
+\select@language {finnish}
+\select@language {english}
+\select@language {finnish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline { 2.1}{\ignorespaces OFDM WLANs Standards\relax }}{6}{table.caption.2}
+\contentsline {table}{\numberline { 2.2}{\ignorespaces IEEE 802.11a Timing Analysis\relax }}{8}{table.caption.4}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline { 5.1}{\ignorespaces Cost for different step of Channel Estimation\relax }}{60}{table.caption.38}
+\contentsline {table}{\numberline { 5.2}{\ignorespaces Gray coded constellation mapping for 16-QAM\relax }}{61}{table.caption.40}
+\contentsline {table}{\numberline { 5.3}{\ignorespaces Synthesis results of the proposed accelerators on Altera Stratix-IV EP4SE360H29C2 FPGA device\relax }}{64}{table.caption.41}
+\contentsline {table}{\numberline { 5.4}{\ignorespaces Synthesis frequencies of accelerators generated on Altera Stratix-IV EP4SE360H29C2 FPGA device \relax }}{64}{table.caption.42}
+\contentsline {table}{\numberline { 5.5}{\ignorespaces Performance comparison in clock cycles between COFFEE RISC core software and CREMA\relax }}{65}{table.caption.43}
+\addvspace {10\p@ }

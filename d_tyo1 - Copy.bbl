@@ -1,0 +1,208 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{FFMPEG}
+\BIBentryALTinterwordspacing
+Ffmpeg software. [Online]. Available: \url{https://www.ffmpeg.org/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{JCT-VC}
+\BIBentryALTinterwordspacing
+Joint video team (jvt), itu-t website. [Online]. Available:
+  \url{http://www.itu.int/en/ITU-T/studygroups/com16/video/Pages/jvt.aspx.}
+\BIBentrySTDinterwordspacing
+
+\bibitem{OZO}
+\BIBentryALTinterwordspacing
+Nokia's virtual reality camera ozo. [Online]. Available:
+  \url{https://ozo.nokia.com/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{PsudoCylindrical_use_2}
+J.~Ardouin, A.~L{\'e}cuyer, M.~Marchal, and E.~Marchand, ``Navigating in
+  virtual environments with 360 omnidirectional rendering,'' in \emph{3D User
+  Interfaces (3DUI), 2013 IEEE Symposium on}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2013, pp. 95--98.
+
+\bibitem{PseudoCylindrical_use_3}
+------, ``Stereoscopic rendering of virtual environments with wide
+  field-of-views up to 360°,'' in \emph{2014 IEEE Virtual Reality (VR)}.\hskip
+  1em plus 0.5em minus 0.4em\relax IEEE, 2014, pp. 3--8.
+
+\bibitem{bauermann2006h}
+I.~Bauermann, M.~Mielke, and E.~Steinbach, ``H. 264 based coding of
+  omnidirectional video,'' in \emph{Computer Vision and Graphics}.\hskip 1em
+  plus 0.5em minus 0.4em\relax Springer, 2006, pp. 209--215.
+
+\bibitem{Bjontegaard}
+G.~Bjøntegaard, ``Calcuation of average psnr differences between rd-curves,''
+  \emph{Doc. VCEG-M33 ITU-T Q6/16, Austin, TX, USA, 2-4 April 2001}, 2001.
+
+\bibitem{bjontegaard_2}
+------, ``Improvements of the bd-psnr model,'' \emph{ITU-T SG16 Q}, vol.~6,
+  p.~35, 2008.
+
+\bibitem{Map_projections}
+L.~M. Bugayevskiy and J.~Snyder, \emph{Map projections: A reference
+  manual}.\hskip 1em plus 0.5em minus 0.4em\relax CRC Press, 1995.
+
+\bibitem{PseudoCylindrical_Use_1}
+H.~G. Debarba, S.~Perrin, B.~Herbelin, and R.~Boulic, ``Embodied interaction
+  using non-planar projections in immersive virtual reality,'' in
+  \emph{Proceedings of the 21st ACM Symposium on Virtual Reality Software and
+  Technology}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2015, pp. 125--128.
+
+\bibitem{MPEG4_Overview}
+T.~Ebrahimi and C.~Horne, ``Mpeg-4 natural video coding--an overview,''
+  \emph{Signal Processing: Image Communication}, vol.~15, no.~4, pp. 365--385,
+  2000.
+
+\bibitem{cartographic}
+G.~I. Evenden, \emph{Cartographic projection procedures for the UNIX
+  environment: A user's manual}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Citeseer, 1990.
+
+\bibitem{Common_test_conditions}
+D.~Flynn and C.~Rosewarne, ``Common test conditions and software reference
+  configurations for hevc range extensions,'' in \emph{Proceedings of the 14th
+  Meeting of Joint Collaborative Team on Video Coding (JCT-VC) of ITU-T SG16
+  WP3 and ISO/IEC JTC1/SC29/WG11}, 2013.
+
+\bibitem{HM}
+\BIBentryALTinterwordspacing
+\emph{High Efficiency Video Coding (HEVC) reference software HM. 2016.},
+  Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute. Std.
+  [Online]. Available: \url{https://hevc.hhi.fraunhofer.de/.}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Rhombic}
+C.~W. Fu, L.~Wan, T.~T. Wong, and C.~S. Leung, ``The rhombic dodecahedron map:
+  An efficient scheme for encoding panoramic video,'' \emph{IEEE Transactions
+  on Multimedia}, vol.~11, no.~4, pp. 634--644, 2009.
+
+\bibitem{SAO}
+C.~M. Fu, E.~Alshina, A.~Alshin, Y.~W. Huang, C.~Y. Chen, C.~Y. Tsai, C.~W.
+  Hsu, S.~M. Lei, J.~H. Park, and W.~J. Han, ``Sample adaptive offset in the
+  hevc standard,'' \emph{IEEE Transactions on Circuits and Systems for Video
+  technology}, vol.~22, no.~12, pp. 1755--1764, 2012.
+
+\bibitem{Quadtree_HEVC}
+P.~Helle, S.~Oudin, B.~Bross, D.~Marpe, M.~O. Bici, K.~Ugur, J.~Jung, G.~Clare,
+  and T.~Wiegand, ``Block merging for quadtree-based partitioning in hevc,''
+  \emph{IEEE Transactions on Circuits and Systems for Video Technology},
+  vol.~22, no.~12, pp. 1720--1731, 2012.
+
+\bibitem{ObjectBased_1}
+A.~Kaup, ``Object-based texture coding of moving video in mpeg-4,'' \emph{IEEE
+  Transactions on Circuits and Systems for Video Technology}, vol.~9, no.~1,
+  pp. 5--15, 1999.
+
+\bibitem{Block_Partitioning}
+I.~K. Kim, J.~Min, T.~Lee, W.~J. Han, and J.~H. Park, ``Block partitioning
+  structure in the hevc standard,'' \emph{IEEE transactions on circuits and
+  systems for video technology}, vol.~22, no.~12, pp. 1697--1706, 2012.
+
+\bibitem{panorama_coding}
+H.~Kimata, S.~Shimizu, Y.~Kunita, M.~Isogai, and Y.~Ohtani, ``Panorama video
+  coding for user-driven interactive video application,'' in \emph{2009 IEEE
+  13th International Symposium on Consumer Electronics}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IEEE, 2009, pp. 112--114.
+
+\bibitem{HEVC_Intra}
+J.~Lainema, F.~Bossen, W.~J. Han, J.~Min, and K.~Ugur, ``Intra coding of the
+  hevc standard,'' \emph{IEEE Transactions on Circuits and Systems for Video
+  Technology}, vol.~22, no.~12, pp. 1792--1801, 2012.
+
+\bibitem{ObjectBased_4}
+L.~Long, W.~Zhanhui, S.~Qijun, and Z.~Haiyan, ``New padding algorithm for
+  object-based coding,'' in \emph{Image and Signal Processing (CISP), 2011 4th
+  International Congress on}, vol.~1.\hskip 1em plus 0.5em minus 0.4em\relax
+  IEEE, 2011, pp. 556--559.
+
+\bibitem{ObjectBased_2}
+J.-H. Moon, J.-H. Kweon, and H.-K. Kim, ``Boundary block-merging (bbm)
+  technique for efficient texture coding of arbitrarily shaped object,''
+  \emph{IEEE Transactions on Circuits and Systems for Video Technology},
+  vol.~9, no.~1, pp. 35--43, 1999.
+
+\bibitem{ng2005data}
+K.~T. Ng, S.~C. Chan, and H.~Y. Shum, ``Data compression and transmission
+  aspects of panoramic videos,'' \emph{IEEE Transactions on Circuits and
+  Systems for Video Technology}, vol.~15, no.~1, pp. 82--95, 2005.
+
+\bibitem{HEVC_DeblockingFilter}
+A.~Norkin, G.~Bjøntegaard, A.~Fuldseth, M.~Narroschke, M.~Ikeda, K.~Andersson,
+  M.~Zhou, and G.~Van~der Auwera, ``Hevc deblocking filter,'' \emph{IEEE
+  Transactions on Circuits and Systems for Video Technology}, vol.~22, no.~12,
+  pp. 1746--1754, 2012.
+
+\bibitem{HEVC_Overview_2}
+J.~R. Ohm, G.~J. Sullivan, H.~Schwarz, T.~K. Tan, and T.~Wiegand, ``Comparison
+  of the coding efficiency of video coding standards including high efficiency
+  video coding (hevc),'' \emph{IEEE Transactions on Circuits and Systems for
+  Video Technology}, vol.~22, no.~12, pp. 1669--1684, 2012.
+
+\bibitem{HMD}
+J.~Rolland and H.~Hua, ``Head-mounted display systems,'' \emph{Encyclopedia of
+  optical engineering}, pp. 1--13, 2005.
+
+\bibitem{ObjectBased_3}
+J.-L. Shih, C.-H. Lee, and Y.-Y. Chiang, ``An mpeg-4 texture coding approach
+  using refined boundary block merging and adaptive sa-dct.'' in \emph{IMECS},
+  2006, pp. 578--583.
+
+\bibitem{HEVC_Overview_1}
+G.~J. Sullivan, J.~R. Ohm, W.~J. Han, and T.~Wiegand, ``Overview of the high
+  efficiency video coding (hevc) standard,'' \emph{IEEE Transactions on
+  circuits and systems for video technology}, vol.~22, no.~12, pp. 1649--1668,
+  2012.
+
+\bibitem{CABAC}
+V.~Sze and M.~Budagavi, ``High throughput cabac entropy coding in hevc,''
+  \emph{IEEE Transactions on Circuits and Systems for Video Technology},
+  vol.~22, no.~12, pp. 1778--1791, 2012.
+
+\bibitem{tovsic2009low}
+I.~Tosic and P.~Frossard, ``Low bit-rate compression of omnidirectional
+  images,'' in \emph{Proceedings of the 27th conference on Picture Coding
+  Symposium}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE Press, 2009, pp.
+  53--56.
+
+\bibitem{Cinematic_VR_Contribution}
+Z.~Wen, J.~Li, S.~Li, and J.~Wen, ``Requirements on cinematic virtual reality
+  mapping schemes,'' in \emph{MPEG M38110}, February 2016.
+
+\bibitem{H.264_Overview}
+T.~Wiegand, G.~J. Sullivan, G.~Bjontegaard, and A.~Luthra, ``Overview of the h.
+  264/avc video coding standard,'' \emph{IEEE Transactions on circuits and
+  systems for video technology}, vol.~13, no.~7, pp. 560--576, 2003.
+
+\bibitem{PRDS}
+M.~Yu, H.~Lakshman, and B.~Girod, ``Content adaptive representations of
+  omnidirectional videos for cinematic virtual reality,'' in \emph{Proceedings
+  of the 3rd International Workshop on Immersive Media Experiences}.\hskip 1em
+  plus 0.5em minus 0.4em\relax ACM, 2015, pp. 1--6.
+
+\bibitem{SPSNR}
+------, ``A framework to evaluate omnidirectional video coding schemes,'' in
+  \emph{Mixed and Augmented Reality (ISMAR), 2015 IEEE International Symposium
+  on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2015, pp. 31--36.
+
+\end{thebibliography}

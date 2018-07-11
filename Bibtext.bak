@@ -1,0 +1,86 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@InProceedings{yu2015framework,
+  Title                    = {A Framework to Evaluate Omnidirectional Video Coding Schemes},
+  Author                   = {Yu, Matt and Lakshman, Haricharan and Girod, Bernd},
+  Booktitle                = {Mixed and Augmented Reality (ISMAR), 2015 IEEE International Symposium on},
+  Year                     = {2015},
+  Organization             = {IEEE},
+  Pages                    = {31--36},
+
+  Crossref                 = {SPSNR},
+  File                     = {:References\\SPSNR.pdf:PDF}
+}
+
+@InCollection{bauermann2006h,
+  Title                    = {H. 264 based coding of omnidirectional video},
+  Author                   = {Bauermann, Ingo and Mielke, Matthias and Steinbach, Eckehard},
+  Booktitle                = {Computer Vision and Graphics},
+  Publisher                = {Springer},
+  Year                     = {2006},
+  Pages                    = {209--215},
+
+  File                     = {:References\\Bauermann2004H.264basedcodingof.pdf:PDF}
+}
+
+@Article{fu2009rhombic,
+  Title                    = {The rhombic dodecahedron map: An efficient scheme for encoding panoramic video},
+  Author                   = {Fu, Chi-Wing and Wan, Liang and Wong, Tien-Tsin and Leung, Chi-Sing},
+  Journal                  = {IEEE Transactions on Multimedia},
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {634--644},
+  Volume                   = {11},
+
+  File                     = {:References\\Rhombic.pdf:PDF},
+  Publisher                = {IEEE}
+}
+
+@InProceedings{kimata2009panorama,
+  Title                    = {Panorama video coding for user-driven interactive video application},
+  Author                   = {Kimata, Hideaki and Shimizu, Shinya and Kunita, Yutaka and Isogai, Megumi and Ohtani, Yoshimitsu},
+  Booktitle                = {2009 IEEE 13th International Symposium on Consumer Electronics},
+  Year                     = {2009},
+  Organization             = {IEEE},
+  Pages                    = {112--114},
+
+  File                     = {:References\\panorama coding_2.pdf:PDF}
+}
+
+@Article{ng2005data,
+  Title                    = {Data compression and transmission aspects of panoramic videos},
+  Author                   = {Ng, King-To and Chan, Shing-Chow and Shum, Heung-Yeung},
+  Journal                  = {IEEE Transactions on Circuits and Systems for Video Technology},
+  Year                     = {2005},
+  Number                   = {1},
+  Pages                    = {82--95},
+  Volume                   = {15},
+
+  File                     = {:References\\Panorama coding_1.pdf:PDF},
+  Publisher                = {IEEE}
+}
+
+@InProceedings{tovsic2009low,
+  Title                    = {Low bit-rate compression of omnidirectional images},
+  Author                   = {To?si´c, Ivana and Frossard, Pascal},
+  Booktitle                = {Proceedings of the 27th conference on Picture Coding Symposium},
+  Year                     = {2009},
+  Organization             = {IEEE Press},
+  Pages                    = {53--56},
+
+  File                     = {:References\\Panorama coding_3.pdf:PDF}
+}
+
+@InProceedings{yu2015content,
+  Title                    = {Content Adaptive Representations of Omnidirectional Videos for Cinematic Virtual Reality},
+  Author                   = {Yu, Matt and Lakshman, Haricharan and Girod, Bernd},
+  Booktitle                = {Proceedings of the 3rd International Workshop on Immersive Media Experiences},
+  Year                     = {2015},
+  Organization             = {ACM},
+  Pages                    = {1--6},
+
+  File                     = {:References\\P-RDS.pdf:PDF}
+}
+

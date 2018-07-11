@@ -1,0 +1,26 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Objectives and Scope of the Thesis}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Thesis Outline}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Projection based point cloud compression}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Projection}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.1}{Sphere}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.2}{Cylinder}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.3}{Cube}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.4}{Planer rotation}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.5}{Sequential Decimation}{section.2.2}% 11
+\BOOKMARK [0][-]{chapter.3}{Proposed Methods}{}% 12
+\BOOKMARK [1][-]{section.3.1}{Edge Smoothing}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.2}{Patch Refinement}{chapter.3}% 14
+\BOOKMARK [0][-]{chapter.4}{Experimental Results}{}% 15
+\BOOKMARK [1][-]{section.4.1}{Point Cloud Data}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.2}{Objective Evaluation Criteria and Metrics}{chapter.4}% 17
+\BOOKMARK [2][-]{subsection.4.2.1}{Geometric Distortions}{section.4.2}% 18
+\BOOKMARK [1][-]{section.4.3}{Results for applying Edge-smoothing and patch refinement}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.4}{Applying Edge-smoothing}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.5}{Applying Patch refinement}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.6}{Applying Edge-smoothing and patch refinement}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.7}{Improved Projection-based Versus the Stat-of-the-art}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.8}{complexity}{chapter.4}% 24
+\BOOKMARK [0][-]{chapter.5}{Conclusion and Future Work}{}% 25
+\BOOKMARK [0][-]{chapter.5}{Bibliography}{}% 26

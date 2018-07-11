@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{CallforProposalsforPCC}
+``Call for proposals for point cloud compression {V}2,'' {\em
+  ISO/IECJTC1/SC29/WG11 N16763}, 2017.
+
+\bibitem{NokiaResponseToCfP}
+S.~Schwarz, M.~M. Hannuksela, V.~Fakour-Sevom, and N.~Sheikhi-Pour, ``2{D}
+  video coding of volumetric video data,'' in {\em IEEE Picture Coding
+  Symposium}, 2018.
+
+\bibitem{HEVCScalabilityExtension}
+``{HEVC} scalability extension ({SHVC}).'' https://hevc.hhi.fraunhofer.de/shvc,
+  (04.04.2018).
+
+\bibitem{mekuria2017designTeleimersive}
+R.~Mekuria, K.~Blom, and P.~Cesar, ``Design, implementation, and evaluation of
+  a point cloud codec for tele-immersive video,'' {\em IEEE Transactions on
+  Circuits and Systems for Video Technology}, vol.~27, no.~4, 2017.
+
+\bibitem{8i_Voxelized_Full_Bodies}
+E.~d'Eon, T.~M. B.~Harrison, and P.~A. Chou, ``8i voxelized full bodies - a
+  voxelized point cloud dataset,'' {\em ISO/IEC JTC1/SC29 Joint WG11/WG1
+  (MPEG/JPEG) input document WG11M40059/WG1M74006,Geneva}, 2017.
+
+\bibitem{Corrigenda}
+``Clarifications and corrigenda for cfp point cloud compression,'' {\em ISO/IEC
+  JTC1/SC29/WG11 N17091}, 2017.
+
+\bibitem{tian2017geometricDistortionMetrics}
+D.~Tian, H.~Ochimizu, C.~Feng, R.~Cohen, and A.~Vetro, ``Geometric distortion
+  metrics for point cloud compression,'' in {\em IEEE ICIP}, 2017.
+
+\bibitem{TourapisBDRate}
+A.~M. Tourapis, D.~Singer, Y.~Su, and K.~Mammou, ``{BD-R}ate/{BD-PSNR} excel
+  extensions,'' {\em ISO/IECJTC1/SC29/WG11 M41482}, 2017.
+
+\end{thebibliography}

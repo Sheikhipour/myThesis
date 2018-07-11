@@ -1,0 +1,46 @@
+\babel@toc {finnish}{}
+\babel@toc {english}{}
+\babel@toc {finnish}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline { 1.1}{\ignorespaces Tele-immersive experience enabled by point cloud compression.}}{1}{figure.caption.1}
+\contentsline {figure}{\numberline { 1.2}{\ignorespaces The overall process of projection-based volumetric video coding.\relax }}{3}{figure.caption.2}
+\contentsline {figure}{\numberline { 1.3}{\ignorespaces First frame of Longdress point cloud. Bounding box for point cloud (a), projection of the point cloud on 2D and assigning one image for texture and one for geometry (b)\relax }}{4}{figure.caption.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{4}{figure.caption.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{4}{figure.caption.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{4}{figure.caption.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline { 2.1}{\ignorespaces \relax }}{5}{figure.caption.4}
+\contentsline {figure}{\numberline { 2.2}{\ignorespaces First frame of Longdress point cloud. Bounding box for point cloud (a), projection of the point cloud on 2D and assigning one image for texture and one for geometry (b)\relax }}{6}{figure.caption.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{6}{figure.caption.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{6}{figure.caption.5}
+\contentsline {figure}{\numberline { 2.3}{\ignorespaces (a)sparse projection of model (b) inpainted sparse projection by linear interpolation.the colors are exaggerated for illustrative purposes.\relax }}{8}{figure.caption.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{8}{figure.caption.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{8}{figure.caption.6}
+\contentsline {figure}{\numberline { 2.4}{\ignorespaces (a)sparse projection of model (b) small holes are filled by applying interpolation.\relax }}{8}{figure.caption.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{8}{figure.caption.7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{8}{figure.caption.7}
+\contentsline {figure}{\numberline { 2.5}{\ignorespaces \relax }}{9}{figure.caption.8}
+\contentsline {figure}{\numberline { 2.6}{\ignorespaces \relax }}{10}{figure.caption.9}
+\contentsline {figure}{\numberline { 2.7}{\ignorespaces (a) Original \textit {Egyption} point cloud (b) reconstructed point cloud in sphere projection (c) Original \textit {Longdress} point cloud (d) reconstructed point cloud in sphere projection\relax }}{11}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{11}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{11}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{11}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{11}{figure.caption.10}
+\contentsline {figure}{\numberline { 2.8}{\ignorespaces \relax }}{12}{figure.caption.11}
+\contentsline {figure}{\numberline { 2.9}{\ignorespaces 3D to 2D projection onto four rectangular planes and Y is primary axis\relax }}{13}{figure.caption.12}
+\contentsline {figure}{\numberline { 2.10}{\ignorespaces (a) Texture and (b) geometry projection images examples for \textit {Longdress} sequence.\relax }}{13}{figure.caption.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{13}{figure.caption.13}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{13}{figure.caption.13}
+\contentsline {figure}{\numberline { 2.11}{\ignorespaces Effect of sequential decimation after each projection\relax }}{14}{figure.caption.14}
+\contentsline {figure}{\numberline { 2.12}{\ignorespaces Sequential decimation improves the occlusion handling (left)\relax }}{15}{figure.caption.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline { 3.1}{\ignorespaces Employing edge smoothing in horizontal direction.\relax }}{17}{figure.caption.16}
+\contentsline {figure}{\numberline { 3.2}{\ignorespaces Texture plane for decimation rotation (top) edge-Smoothing applied for projected 3D data (bottom)\relax }}{18}{figure.caption.17}
+\contentsline {figure}{\numberline { 3.3}{\ignorespaces An example of applying patch refinement.\relax }}{20}{figure.caption.18}
+\contentsline {figure}{\numberline { 3.4}{\ignorespaces Texture plane for decimation rotation after applying edge-Smoothing(top) patch refinement is applied for projected 3D data (bottom)\relax }}{21}{figure.caption.19}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline { 4.1}{\ignorespaces Illustration of point-to-point distance (D1) and point-to-plane distance (D2) \cite {CallforProposalsforPCC}\relax }}{24}{figure.caption.21}
+\contentsline {figure}{\numberline { 4.10}{\ignorespaces Decoded point cloud in the 18 Mbit/s for (a) reference, (b) proposed solution\relax }}{37}{figure.caption.38}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{37}{figure.caption.38}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{37}{figure.caption.38}
+\addvspace {10\p@ }
